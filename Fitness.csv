@@ -1,0 +1,27 @@
+SALESMAN	JAN	FEB	MAR	APR	MAY	JUN	TOTAL SALES			1. Individual Sales using Sum()				
+ANU	70	80	75	60	72	55	412			2. Find the pattern trend using conditional formatting in home page				
+BABU	30	48	35	45	25	37	220			3. Analyze using Pivot table as column percentage				
+CHANDRU	65	54	49	54	35	65	322			4. Insert Pivot charts				
+DAVID	85	71	68	77	88	73	462			5. Rank() - returns the rank of a given value by comparing  a list of numeric values. 				
+EINSTEIN	55	25	45	50	53	30	258			Turnover				25-05-2065
+FAROOK	35	45	15	45	45	25	210			sum	556			10-04-2086
+GOWTHAM	75	66	59	65	56	30	351			avg	55.6			30-06-2055
+HARSHITH	29	35	49	48	35	55	247		33	day	10			>0
+INIYAN	35	35	50	59	67	73	319			sumif	556			<1000
+JOHN	77	85	77	68	56	25	388			count	10			
+MONTHLY SALES	556	544	522	571	532	468		3193		max	85			
+							3189			min	29			
+										CONCATENATE	MONTHLY SALES			
+										len	6			
+										days	11242			
+										NETWORKDAYS	8030			
+										SUMIFS				
+										COUNTIF	10			
+										if	0			
+										IFERROR	77			
+										find	7			
+										averageif	123.1428571			
+										counta	10			
+										left	BAB			
+										right	YAN			
+										date	16-12-2022			
